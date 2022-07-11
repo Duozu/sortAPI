@@ -1,7 +1,7 @@
 
 // sortAPI v1.0.0
 // trashed by: Duozu
-// Discord: Klxieyn#5050
+// Discord: Duozu#5050
 
 // <script src="sortAPI.js"></script>
 
